@@ -4,7 +4,7 @@ import App from './App'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <div className="bg-gray-100 dark:bg-gray-900 w-full h-full flex justify-center items-center font-sans">
+  <div className="bg-teal-100 h-auto min-h-screen scroll-smooth">
     <App />
   </div>,
 )
